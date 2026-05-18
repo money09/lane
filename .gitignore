@@ -1,0 +1,5 @@
+demo_images/*.pth
+__pycache__/
+*.pyc
+.DS_Store
+demo_output/
